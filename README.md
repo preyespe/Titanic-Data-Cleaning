@@ -1,4 +1,4 @@
-# Titanic Data Cleaning
+# Titanic Dataset Cleaning
 ## Preparación y validación de los datos para análisis
 ## Autor
 - Ing. Patricia Reyes Silva
@@ -22,8 +22,8 @@ Este trabajo utiliza los datos proporcionados por la plataforma de competiciones
 
 El objetivo de utilizar el dataset Titanic, es el de preparar y validar sus datos para un posterior análisis y aplicación de herramientas  de aprendizaje automático, a fin de predecir qué pasajeros sobrevivieron a la tragedia.
 
-![Imagen Titanic]https://raw.githubusercontent.com/preyespe/Titanic-Data-Cleaning/master/docs/the-titanic.jpg
-Fuente: [El Titanic - 101 años (14-15 de abril de 1912 / 14-15 de abril de 2013)]http://elcaleidoscopio3.blogspot.com/2013/04/el-titanic-101-anos-14-15-de-abril-de.html
+![Imagen Cotizaciones](https://raw.githubusercontent.com/preyespe/Titanic-Data-Cleaning/master/docs/the-titanic.jpg)
+Fuente: ![El Titanic - 101 años (14-15 de abril de 1912 / 14-15 de abril de 2013)]
 
 ## Herramientas utilizadas
 
